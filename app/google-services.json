@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856629141522",
+    "firebase_url": "https://lockdown3-1ad56.firebaseio.com",
+    "project_id": "lockdown3-1ad56",
+    "storage_bucket": "lockdown3-1ad56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856629141522:android:75aa74b5474b85d2",
+        "android_client_info": {
+          "package_name": "app.android.lockdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856629141522-ouqa6imfop1b61snm46auqloa2ebhk6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVzR3rpsf2ZtWWChw2vCw1eG7l_BHvLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
